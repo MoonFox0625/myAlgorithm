@@ -1,5 +1,6 @@
-# 需要再次阅读的项目集合
+# 个人算法集合,以go test形式
 
+下面是需要重新理解的部分
 ## Array_algorithm 部分
 
 1. threeSum
